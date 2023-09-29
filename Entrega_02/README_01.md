@@ -13,3 +13,11 @@ Primero se realizó una busqueda de datos obtenidos a través de encuestas reali
 - ¿Cuánta conciencia se tiene respecto a una tenencia responsable?
 
 [Vídeo de Youtube](https://youtu.be/sqecdgAtoqA)
+
+import pandas as pd
+
+import seaborn as sns
+
+PROYECTO = sns.load_dataset('/content/drive/MyDrive/Colab Notebooks/base de datos proyecto/PROYECTO.csv')
+
+PROYECTO.head()
