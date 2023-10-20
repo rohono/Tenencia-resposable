@@ -40,3 +40,5 @@ Roboto Slab
 ## Elementos gráficos pertinentes
 El logo principal permitirá que nuestro usuario relacione inmediatamente el contenido esperado con las mascotas, pero llevando el concepto a algo más que un animal. En sí, las Patitas nos hacen pensar en un aspecto adorable de las mascotas.
 ![Logo 2](https://github.com/rohono/Tenencia-resposable/blob/main/Entrega_03/logo.png)
+
+[Presentación](https://youtu.be/pJ26lCsNQHw)
