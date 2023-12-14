@@ -1,5 +1,6 @@
-Elementos detallados de la entrega en repositorio:
-A.	Readme general del Encargo 06 (info general entrega)
+# Elementos detallados de la entrega en repositorio:
+
+## Readme general del Encargo 06 (info general entrega)
 Nuestra webstory se encuentra enfocada en la tenencia responsable y la adopción de mascotas. Nos encontramos con problemas al momento de subir la entrega a github pages ya que no nos funcionan los css y jss, no logramos averiguar la causa. Nos enfocamos en hacer una página de scroll infinito que se pudiera seccionar en un menú para encontrar las partes con mayor facilidad. Contamos de historias y gráficos verídicos. </p>
 Nuestra idea en un principio fue colocar los gráficos al costado de cada párrafo, pero no logramos configurarlo en html, por lo que preferimos dejarlos lineales a que perderlos. Pudimos encontrar la forma de poner un pequeño dialogo que Tamara logró a través de tutoriales en youtube. La crónica esperábamos hacerla más larga, pero por espacio y comodidad del usuario, lo dejamos de esa manera. 
 Contamos con colores cálidos para representar la sensación de hogar que nos hacen sentir las mascotas, además de figuras digitales de animales para hacernos sentir más encariñados con la página. Apelamos a la emoción del usuario.
